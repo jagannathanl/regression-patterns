@@ -68,7 +68,7 @@ which leads to the closed-form solution
 
 $$
 \begin{aligned}
-W = (X^T \cdot X)^{-1}  \cdot X^T \cdot \hat{y}.            \quad (1)
+W = (X^T \cdot X)^{-1}  \cdot X^T \cdot \hat{y}
 \end{aligned}
 $$
 Equation (1) is the Normal Equation, which computes the optimal parameter vector as the product of three matrices.
