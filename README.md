@@ -68,6 +68,12 @@ which leads to the closed-form solution
 
 $$
 \begin{aligned}
+X^T \cdot \hat{y}  = X^T \cdot X \cdot W 
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
 W = (X^T \cdot X)^{-1}  \cdot X^T \cdot \hat{y}
 \end{aligned}
 $$
