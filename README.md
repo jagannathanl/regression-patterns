@@ -74,7 +74,7 @@ $$
 
 $$
 \begin{aligned}
-W = (X^T \cdot X)^{-1}  \cdot X^T \cdot \hat{y}
+W = (X^T \cdot X)^{-1} \cdot X^T \cdot \hat{y}
 \end{aligned}
 $$
 Equation (1) is the Normal Equation, which computes the optimal parameter vector as the product of three matrices.
