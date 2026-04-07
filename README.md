@@ -68,7 +68,7 @@ which leads to the closed-form solution
 
 $$
 \begin{aligned}
-X^T \cdot \hat{y}  = X^T \cdot X \cdot W 
+W = \cdot X^T \cdot \hat{y}
 \end{aligned}
 $$
 
